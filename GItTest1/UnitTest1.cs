@@ -12,7 +12,7 @@ namespace GItTest1
         [Test]
         public void Test1()
         {
-            System.Console.WriteLine("Hello world");
+            System.Console.WriteLine("Hello America");
         }
     }
 }
